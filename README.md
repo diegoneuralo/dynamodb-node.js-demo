@@ -82,4 +82,11 @@ AWS_PROFILE={YOUR_PROFILE_NAME} node deleteItem.js
 e.g AWS_PROFILE=mahtab-sysops node deleteItem.js
 ```
 
+### Delete Movies Table
+
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node deleteTable.js
+e.g AWS_PROFILE=mahtab-sysops node deleteTable.js
+```
+
 
