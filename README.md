@@ -60,3 +60,12 @@ e.g AWS_PROFILE=mahtab-sysops node query02.js
 AWS_PROFILE={YOUR_PROFILE_NAME} node scan01.js
 e.g AWS_PROFILE=mahtab-sysops node scan01.js
 ```
+
+### Update an Item in Movies Table
+
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node updateItem.js
+e.g AWS_PROFILE=mahtab-sysops node updateItem.js
+```
+
+
