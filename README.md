@@ -19,6 +19,13 @@ e.g AWS_PROFILE=mahtab-sysops node createTable.js
 
 Wait for a minute while Table is being created.
 
+### Describe the Movies Table
+
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node describeTable.js
+e.g AWS_PROFILE=mahtab-sysops node describeTable.js
+```
+
 ### Write a single Item to Movies Table
 
 ```
@@ -66,6 +73,13 @@ e.g AWS_PROFILE=mahtab-sysops node scan01.js
 ```
 AWS_PROFILE={YOUR_PROFILE_NAME} node updateItem.js
 e.g AWS_PROFILE=mahtab-sysops node updateItem.js
+```
+
+### Delete an Item from Movies Table
+
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node deleteItem.js
+e.g AWS_PROFILE=mahtab-sysops node deleteItem.js
 ```
 
 
