@@ -44,3 +44,10 @@ e.g AWS_PROFILE=mahtab-sysops node getItem.js
 AWS_PROFILE={YOUR_PROFILE_NAME} node query01.js
 e.g AWS_PROFILE=mahtab-sysops node query01.js
 ```
+
+### Query Movies Table based on Primary key (year) and Sort key (title)
+
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node query02.js
+e.g AWS_PROFILE=mahtab-sysops node query02.js
+```
