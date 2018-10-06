@@ -31,4 +31,11 @@ AWS_PROFILE={YOUR_PROFILE_NAME} node batchWrite.js
 e.g AWS_PROFILE=mahtab-sysops node batchWrite.js
 ```
 
+### Read a single Item from Movies Table
+
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node getItem.js
+e.g AWS_PROFILE=mahtab-sysops node getItem.js
+```
+
 
