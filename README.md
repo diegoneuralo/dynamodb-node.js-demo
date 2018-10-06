@@ -24,4 +24,11 @@ AWS_PROFILE={YOUR_PROFILE_NAME} node singleWrite.js
 e.g AWS_PROFILE=mahtab-sysops node singleWrite.js
 ```
 
+### Write multiple Items in batch to Movies Table
+
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node batchWrite.js
+e.g AWS_PROFILE=mahtab-sysops node batchWrite.js
+```
+
 
