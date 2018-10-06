@@ -14,4 +14,14 @@ npm install
 
 ```
 AWS_PROFILE={YOUR_PROFILE_NAME} node createTable.js
+e.g AWS_PROFILE=mahtab-sysops node createTable.js
 ```
+
+### Write a single Item to Movies Table
+
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node singleWrite.js
+e.g AWS_PROFILE=mahtab-sysops node singleWrite.js
+```
+
+
