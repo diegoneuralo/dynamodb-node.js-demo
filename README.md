@@ -10,7 +10,7 @@ npm install
 ```
 
 
-# Create DynamoDB Table (Movies)
+## Create DynamoDB Table (Movies)
 
 ```
 AWS_PROFILE={YOUR_PROFILE_NAME} node createTable.js
