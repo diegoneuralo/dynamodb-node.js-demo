@@ -17,6 +17,8 @@ AWS_PROFILE={YOUR_PROFILE_NAME} node createTable.js
 e.g AWS_PROFILE=mahtab-sysops node createTable.js
 ```
 
+Wait for a minute while Table is being created.
+
 ### Write a single Item to Movies Table
 
 ```
@@ -50,4 +52,11 @@ e.g AWS_PROFILE=mahtab-sysops node query01.js
 ```
 AWS_PROFILE={YOUR_PROFILE_NAME} node query02.js
 e.g AWS_PROFILE=mahtab-sysops node query02.js
+```
+
+### Scan Movies Table and then Filter results
+
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node scan01.js
+e.g AWS_PROFILE=mahtab-sysops node scan01.js
 ```
