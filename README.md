@@ -38,4 +38,9 @@ AWS_PROFILE={YOUR_PROFILE_NAME} node getItem.js
 e.g AWS_PROFILE=mahtab-sysops node getItem.js
 ```
 
+### Query Movies Table based on Primary key (year)
 
+```
+AWS_PROFILE={YOUR_PROFILE_NAME} node query01.js
+e.g AWS_PROFILE=mahtab-sysops node query01.js
+```
